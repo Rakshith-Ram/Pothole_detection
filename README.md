@@ -6,5 +6,5 @@ Credits : Yolov7 original paper : [Link](https://github.com/Rakshith-Ram/YoloV7_
 
 
 ##### Inference on sample images by model trained on MS-COCO dataset:
-[](https://github.com/Rakshith-Ram/YoloV7_implementation_and_Pothole_detection/blob/main/coco.png)
+![](https://github.com/Rakshith-Ram/YoloV7_implementation_and_Pothole_detection/blob/main/coco.png)
 
