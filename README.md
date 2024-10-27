@@ -9,4 +9,4 @@ Credits : Yolov7 original paper : [Link](https://github.com/Rakshith-Ram/YoloV7_
 ![](https://github.com/Rakshith-Ram/YoloV7_implementation_and_Pothole_detection/blob/main/coco.png)
 
 #### Ground truth v/s predictions by model trained on pothole dataset:
-![](https://github.com/Rakshith-Ram/YoloV7_implementation_and_Pothole_detection/blob/main/coco.png)
+![](https://github.com/Rakshith-Ram/YoloV7_implementation_and_Pothole_detection/blob/main/pothole.png)
